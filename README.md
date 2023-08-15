@@ -1,2 +1,0 @@
-# Jwt-auth
-auth implementation 
